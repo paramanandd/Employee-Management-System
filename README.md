@@ -1,7 +1,6 @@
 # README #
 
-
-Created a feature branch and commited changes to the same for testing bamboo build status being depicted in JIRA issue in "Create branch" section
+this is a develop branch created for maintaining the integrations of work by developers.
 
 ### What is this repository for? ###
 
